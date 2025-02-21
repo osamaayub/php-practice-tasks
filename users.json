@@ -1,0 +1,55 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "purchases": [
+                {
+                    "item": "Laptop",
+                    "price": 999.99
+                },
+                {
+                    "item": "Mouse",
+                    "price": 19.99
+                },
+                {
+                    "item": "Keyboard",
+                    "price": 49.99
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "purchases": [
+                {
+                    "item": "Phone",
+                    "price": 799.99
+                },
+                {
+                    "item": "Charger",
+                    "price": 29.99
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Bob Johnson",
+            "email": "bob.johnson@example.com",
+            "purchases": []
+        },
+        {
+            "id": 4,
+            "name": "Alice",
+            "email": "Alice@gmail.com",
+            "purchases": [
+                {
+                    "item": "phone",
+                    "price": 4.99
+                }
+            ]
+        }
+    ]
+}
